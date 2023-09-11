@@ -10,3 +10,4 @@ function linearSearch(array, searchTerm) {
 }
 
 module.exports = linearSearch;
+
